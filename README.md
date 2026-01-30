@@ -17,9 +17,14 @@
 </div>
 
 
-Projetos em destaque
+## Projetos em Destaque
+`Aconpanhe minha jornada pelos dados estruturados` https://github.com/Gabrielpedroaurelio/Projectos-DBA
+`Projecto ExtraSoft: Projecto ERP Empresarial em desenvolvimento` https://github.com/Gabrielpedroaurelio/extrasoft-ERP
+`Projecto Gestão de Declarações Escolares` https://github.com/Gabrielpedroaurelio/projecto-fim-do-curso
+`Sistema de votos Online` https://github.com/Gabrielpedroaurelio/Projecto_Vota_Docs
+`Site de noticias para o IPM` https://github.com/Gabrielpedroaurelio/painel-noticias-django
+`Painel Adiministrativo com Django` https://github.com/Gabrielpedroaurelio/sgp
 
-Contatos
 
 
 
