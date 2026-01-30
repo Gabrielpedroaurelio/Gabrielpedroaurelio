@@ -1,7 +1,7 @@
 ## Olá, Eu sou  `Gabriel Pedro Aurélio`
 
 >> Quem eu sou?
-  Sou Gabriel Pedro Aurélio, sou um Desenvolvedor Web FullStack em ascensão, no momento pretendo me especializar em web: ReactJS, NextJS, NodeJS, NestJS e TypeScript, Actualmente estou estudando PostgreSQL e React e UML.
+  Sou Gabriel Pedro Aurélio, sou um Desenvolvedor Web FullStack em ascensão, no momento pretendo me especializar em web: ReactJS, NextJS, NodeJS, NestJS e TypeScript, Actualmente estou estudando PostgreSQL, React e UML.
 
 >> Skills
  HTML5, CSS3, JAVASCRIPT, PHP, MYSQL, REACT, POSTGRESQL
