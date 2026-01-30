@@ -1,16 +1,25 @@
-## Hi there 👋
+## Olá, Eu sou  `Gabriel Pedro Aurélio`
 
-<!--
-**Gabrielpedroaurelio/Gabrielpedroaurelio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+>> Quem eu sou?
+  Sou Gabriel Pedro Aurélio, sou um Desenvolvedor Web FullStack em ascensão, no momento pretendo me especializar em web: ReactJS, NextJS, NodeJS, NestJS e TypeScript, Actualmente estou estudando PostgreSQL e React e UML.
 
-Here are some ideas to get you started:
+>> Skills
+ HTML5, CSS3, JAVASCRIPT, PHP, MYSQL, REACT, POSTGRESQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: flex; gap: 20px; flex-wrap: wrap; align-items: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
+</div>
+
+
+Projetos em destaque
+
+Contatos
+
+
+
