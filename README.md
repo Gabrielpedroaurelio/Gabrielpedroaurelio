@@ -1,7 +1,12 @@
 # 👋 Olá, eu sou **Gabriel Pedro Aurélio**
 
 > Desenvolvedor Web • Construtor de Sistemas • Aprendiz contínuo de Arquitetura, Dados e Infraestrutura
-
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Gabrielpedroaurelio&style=flat-square&color=blue)
+  [![GitHub followers](https://img.shields.io/github/followers/Gabrielpedroaurelio?style=flat-square&logo=github)](https://github.com/Javaxdevelopment01)
+  
+</div>
 ---
 
 ## 🧠 Como eu penso
