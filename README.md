@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou **Gabriel Pedro Aurélio**
 
->  Engenheiro Backend em aprendiado • Construtor de Sistemas • Aprendiz contínuo de Arquitetura
+>  Engenheiro Backend em aprendizado • Construtor de Sistemas • Aprendiz contínuo de Arquitetura
 <div align="center">
   
   ![Profile Views](https://komarev.com/ghpvc/?username=Gabrielpedroaurelio&style=flat-square&color=blue)
